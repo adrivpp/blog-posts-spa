@@ -1,29 +1,10 @@
 # blog-posts-spa
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Features
+ * User can see all the posts
+ * User can create a post
+ * User can view a single post
+ * User can Edit a post
+ * User can delete a post
+ * The posts are only visible if the date of publication is before the date the user is connected
+ 
